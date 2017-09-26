@@ -11,6 +11,8 @@
 
 ## About Me ReadMe info:
 
+[Fork & Clone from here](https://github.com/den-materials/about-me)
+
 1. What you did you do before GA?
 2. What kind of support do you think you'll need most from Outomes?
 3. What were were your Day 1 goals for this course?
