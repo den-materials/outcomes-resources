@@ -9,6 +9,11 @@
 ![Qualification Requirements](img/qualification.png)
 ![Seeking Status](img/seekingstatus.png)
 
+## Interview Resources:
+
+- [CodeWars](https://www.codewars.com)
+- [GA Coding Lessons](https://github.com/den-materials/interview-resources)
+
 ## About Me ReadMe info:
 
 [Fork & Clone from here](https://github.com/den-materials/about-me)
